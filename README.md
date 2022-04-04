@@ -14,10 +14,6 @@ import uuid
 import os
 import time
 ```
-* one
-* two
-* three
-
 Model import
 
 ``` python
